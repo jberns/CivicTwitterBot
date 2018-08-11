@@ -13,7 +13,7 @@ Activate Virtual ENV: `.\env\Scripts\activate`
 Update PIP in Virtual ENV: ```python -m pip install --upgrade pip```
 
 Install all packages:
-```pip install -r requirements.txt````
+```pip install -r requirements.txt```
 
 To export package list: ```pip freeze```
 
