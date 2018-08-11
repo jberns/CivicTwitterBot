@@ -10,7 +10,7 @@ Create Virtual ENV: `python -m venv env`
 
 Activate Virtual ENV: `.\env\Scripts\activate`
 
-Update PIP in Virtual ENV: ``python -m pip install --upgrade pip`
+Update PIP in Virtual ENV: ```python -m pip install --upgrade pip```
 
 Install all packages:
 `pip install -r requirements.txt`
